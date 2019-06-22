@@ -1,10 +1,11 @@
 ---
 title: Finally!!
 date: "2019-06-16"
-description: "Test"
+description: "First Post"
 ---
 
-I have been trying to setup my own site for years and I kept letting things get in the way. 
+I have been trying to setup my own site for years and I kept letting things get in the way.
+
 You know “things” like life, kids, career and all the other stuff.  
 Well I am happy to say that I set aside some time to get this super fast static site up! 
 I will make a post about what is under the hood soon.
